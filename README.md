@@ -133,7 +133,7 @@ Application  <br/>
 
 <h2> 📹 Short video demo : </h2> 
 
-
+https://github.com/user-attachments/assets/5ae8d658-d6c6-446d-857d-539a54d45767
 
 
 
