@@ -61,11 +61,30 @@ This system runs entirely on solar energy, making it ideal for agricultural or r
 
 <h2>📲 Blynk App Configuration : </h2>
 <h3>Virtual Pin	Function :	</h3>
+
+
 - V0	: Soil Moisture (%)	- Value
-- V1	: Temperature (°C)	- Value 
-- V2	: Humidity (%)	- Value 
+
+  
+- V1	: Temperature (°C)	- Value
+
+ 
+- V2	: Humidity (%)	- Value
+
+  
 - V3	: Water Tank Level (%) - 	value
+
+  
 - V4	: Manual Pump Control	Slider (1 = ON)
+
+  
+
+<p align="center">
+Application  <br/>
+<img src="https://i.imgur.com/GhkwkAz.jpeg" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+  
+<br />
+<br />
 
 
 
@@ -112,7 +131,9 @@ This system runs entirely on solar energy, making it ideal for agricultural or r
 → Update Blynk dashboard  
 
 
-<h2> 📹 Short video demo : </h2>
+<h2> 📹 Short video demo : </h2> 
+
+
 
 
 
