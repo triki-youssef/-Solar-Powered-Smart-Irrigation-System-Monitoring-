@@ -87,6 +87,21 @@ Application  <br/>
 <br />
 
 
+<h2>🔌 Sensor & Actuator Wiring : </h2>
+<h3> Component	ESP32 Pin	Notes : </h3>
+- DHT11 (Temp & Humidity)	GPIO 4
+
+
+- Soil Moisture Sensor	GPIO 35
+
+  
+- Water Level Sensor	GPIO 34
+
+  
+- Relay Module (Pump)	GPIO 5	
+
+
+
 
 <h2>💻 System Behavior</h2>
 - Reads all sensors every 5 seconds.
@@ -134,6 +149,18 @@ Application  <br/>
 <h2> 📹 Short video demo : </h2> 
 
 https://github.com/user-attachments/assets/5ae8d658-d6c6-446d-857d-539a54d45767
+
+
+<h2>📁 Files Included : </h2>
+
+- All code and wiring diagrams are available in the folder:
+code and wiring
+
+   - Arduino code (.ino file)
+
+   - Wiring diagram (.jpg or .png)
+ 
+  
 
 
 
